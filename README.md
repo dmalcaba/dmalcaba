@@ -3,6 +3,13 @@
 - 🔭 I have a passion for .NET technologies and love the way it is going. 
 - 🌱 I’m currently learning Blazor.
 
+``` csharp
+while(true)
+{
+   Study()
+}
+```
+
 <!--
 **dmalcaba/dmalcaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
