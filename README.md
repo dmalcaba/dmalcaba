@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome!! 👋
+
+I started out as a [Magic](https://www.magicsoftware.com/) Developer.  During that time I learned MSSQL and a bit of web programming.
+
+I got fully immersed in .NET technologies when we migrated our Magic code to C# using [FireflyMigration](https://www.fireflymigration.com/).
+
+My current project is a web UI framework built on .NET Core and EF.
 
 - 🔭 I have a passion for .NET technologies and love the way it is going. 
 - 🌱 I’m currently learning Blazor.
