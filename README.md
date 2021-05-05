@@ -1,13 +1,19 @@
-### Welcome!! 👋
+# Hi there! 👋
+---
 
-I started out as a [Magic](https://www.magicsoftware.com/) Developer.  During that time I learned MSSQL and a bit of web programming.
-
-I got fully immersed in .NET technologies when we migrated our Magic code to C# using [FireflyMigration](https://www.fireflymigration.com/).
+``` javascript
+const aboutme = {
+    backend: ["C#", "T-SQL", ".NET Core", "Entity Framework Core"],
+    frontend: ["Javascript", "HTML", "CSS", "Vue.js"],
+    tools: ["Docker", "vscode"]
+}
+```
 
 My current project is a web UI framework built on .NET Core and EF.
 
 - 🔭 I have a passion for .NET technologies and love the way it is going. 
 - 🌱 I’m currently learning Blazor.
+
 
 ``` csharp
 while(true)
@@ -16,8 +22,7 @@ while(true)
 }
 ```
 
-<br />
-<hr />
+---
 <img src="https://github-readme-stats.vercel.app/api?username=dmalcaba&show_icons=true">
 
 <!--
