@@ -5,7 +5,7 @@
 const aboutme = {
     backend: ["C#", "T-SQL", ".NET Core", "Entity Framework Core"],
     frontend: ["Javascript", "HTML", "CSS", "Vue.js"],
-    tools: ["Docker", "vscode"]
+    tools: ["Docker", "vscode", "Visual Studio"]
 }
 ```
 
